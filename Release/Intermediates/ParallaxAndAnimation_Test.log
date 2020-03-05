@@ -1,0 +1,26 @@
+﻿  Actor.cpp
+  AnimSpriteComponent.cpp
+c:\vs projects\parallaxandanimation_test\src\animspritecomponent.cpp(21): warning C4244: '=': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+c:\vs projects\parallaxandanimation_test\src\animspritecomponent.cpp(55): warning C4244: '=': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+  BGSpriteComponent.cpp
+  Character.cpp
+  Component.cpp
+  Game.cpp
+  Main.cpp
+  Bird.cpp
+  SpriteComponent.cpp
+  TileMapComponent.cpp
+c:\vs projects\parallaxandanimation_test\src\tilemapcomponent.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\vs projects\parallaxandanimation_test\src\tilemapcomponent.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 1081 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ParallaxAndAnimation_Test.vcxproj -> C:\VS Projects\ParallaxAndAnimation_Test\Release\ParallaxAndAnimation_Test.exe
