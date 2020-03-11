@@ -5,7 +5,6 @@
 #include "SpriteComponent.h"
 #include "Bird.h"
 #include "BGSpriteComponent.h"
-#include "Character.h"
 #include "TileMapComponent.h"
 
 Game::Game() : mWindow(nullptr), mRenderer(nullptr), mIsRunning(true), mUpdatingActors(false)

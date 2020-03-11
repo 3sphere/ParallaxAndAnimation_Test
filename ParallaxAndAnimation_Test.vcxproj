@@ -137,7 +137,6 @@
     <ClCompile Include="src\Actor.cpp" />
     <ClCompile Include="src\AnimSpriteComponent.cpp" />
     <ClCompile Include="src\BGSpriteComponent.cpp" />
-    <ClCompile Include="src\Character.cpp" />
     <ClCompile Include="src\Component.cpp" />
     <ClCompile Include="src\Game.cpp" />
     <ClCompile Include="src\Main.cpp" />
@@ -149,7 +148,6 @@
     <ClInclude Include="src\Actor.h" />
     <ClInclude Include="src\AnimSpriteComponent.h" />
     <ClInclude Include="src\BGSpriteComponent.h" />
-    <ClInclude Include="src\Character.h" />
     <ClInclude Include="src\Component.h" />
     <ClInclude Include="src\Game.h" />
     <ClInclude Include="src\Math.h" />
