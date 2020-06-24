@@ -1,5 +1,9 @@
 # ParallaxAndAnimation_Test
 
-Simple demo showcasing parallax backgrounds and animated sprites in SDL2.  
+### About
 
-![alt text](https://github.com/3sphere/ParallaxAndAnimation_Test/blob/master/Screenshot.png "screenshot")
+This project is just a very simple demo showcasing parallax scrolling and animated sprites using the game object model outlined in my [Asteroids repo](https://github.com/3sphere/Asteroids)  
+
+![Screenshot](https://github.com/3sphere/ParallaxAndAnimation_Test/blob/master/Screenshot.png)  
+
+Video: https://www.youtube.com/watch?v=bX5zg0n8ZQ0
