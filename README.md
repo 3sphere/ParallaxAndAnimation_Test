@@ -1,8 +1,6 @@
 # ParallaxAndAnimation_Test
 
-### About
-
-This project is just a very simple demo showcasing parallax scrolling and animated sprites using the game object model outlined in my [Asteroids repo](https://github.com/3sphere/Asteroids).  
+Testing out code for creating parallax scrolling
 
 ![Screenshot](https://github.com/3sphere/ParallaxAndAnimation_Test/blob/master/Screenshot.png)  
 
